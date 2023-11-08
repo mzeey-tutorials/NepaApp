@@ -1,0 +1,32 @@
+﻿
+//--------------------- Display Utilities ------------------------
+.flex {
+    display: flex;
+
+    &-col {
+        display: flex;
+        flex-direction: column;
+    }
+
+    &-row{
+        display: flex;
+        flex-direction: row;
+    }
+}
+
+.justify-c{
+    justify-content: center;
+}
+
+.align-items-c{
+    align-items: center;
+}
+
+.grid{
+    display: grid;
+}
+
+// ------------- Text Utilities ---------------------
+.txt-align-c{
+    text-align: center;
+}
