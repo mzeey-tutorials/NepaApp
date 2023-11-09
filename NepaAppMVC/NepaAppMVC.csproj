@@ -14,4 +14,8 @@
     <None Include="compilerconfig.json" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\js\build\" />
+  </ItemGroup>
+
 </Project>
